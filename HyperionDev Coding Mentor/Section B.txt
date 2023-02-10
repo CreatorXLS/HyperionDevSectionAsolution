@@ -3,6 +3,9 @@ Instructions
 ? Please share a GitHub URL to a project you're most proud of.
 ? You may include the link in the repository you are submitting for the
 test.
-? You may have completed it in the past or it may be freshly
-completed for this test.
-? The project could be in any domain using any technology stack.
+
+ MY SUBMISSIONS
+MY most recent projects that im currently working on
+#they are Java springboot application, please view my github repository for more projects and exercises
+  https://github.com/CreatorXLS/Employee-and-Employee-departments-microservices
+  https://github.com/CreatorXLS/property-management
