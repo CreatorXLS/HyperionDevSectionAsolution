@@ -43,7 +43,8 @@ SECTION C JAVASCRIPT NUMERIC VALUE TO STRING
 // 21. The string is returned.
 
 
-Section D helping lagging students
+Section D
+############  Helping lagging students
 		PLAN OF ACTION TO ASSIST LAGGING STUDENTS
 
 1. Schedule one-on-one meetings with the 5 lagging students to discuss their progress and the tasks they are behind on.
@@ -53,5 +54,10 @@ Section D helping lagging students
 5. Provide encouragement and incentives (e.g. rewards, recognition) to the 5 students that are ahead, to ensure they remain motivated and engaged.
 6. Monitor the progress of all 20 students and provide feedback to them on a regular basis.
 7. Keep the lines of communication open and available for all students to ensure they feel comfortable coming to you with questions or concerns.
+
+############  Java Support Task
+		PLAN OF ACTION TO ASSIST STUDENT RESOLVE CODE ERROR
+
+To help the student, I would first ask them to explain the steps they took to try and use the JOptionPane.ShowDialog() method. I would then review the code that they wrote to see if there was any syntax errors that might be causing the issue. If there were any errors, I would explain to them what the issue was and how to fix it. If the code is correct, then I would suggest that they try a different method of inputting data and see if that works. If the new method works, then I would suggest that they use that method instead. If the new method doesn't work, then I would suggest that they look into any potential issues with the JOptionPane.ShowDialog() method. I would then provide resources that they could use to troubleshoot the issue and help them find a solution.
 
 
